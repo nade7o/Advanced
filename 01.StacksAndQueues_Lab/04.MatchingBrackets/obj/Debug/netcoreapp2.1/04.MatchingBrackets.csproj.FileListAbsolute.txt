@@ -1,0 +1,10 @@
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\04.MatchingBrackets\bin\Debug\netcoreapp2.1\04.MatchingBrackets.deps.json
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\04.MatchingBrackets\bin\Debug\netcoreapp2.1\04.MatchingBrackets.runtimeconfig.json
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\04.MatchingBrackets\bin\Debug\netcoreapp2.1\04.MatchingBrackets.runtimeconfig.dev.json
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\04.MatchingBrackets\bin\Debug\netcoreapp2.1\04.MatchingBrackets.dll
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\04.MatchingBrackets\bin\Debug\netcoreapp2.1\04.MatchingBrackets.pdb
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\04.MatchingBrackets\obj\Debug\netcoreapp2.1\04.MatchingBrackets.csproj.CoreCompileInputs.cache
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\04.MatchingBrackets\obj\Debug\netcoreapp2.1\04.MatchingBrackets.AssemblyInfoInputs.cache
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\04.MatchingBrackets\obj\Debug\netcoreapp2.1\04.MatchingBrackets.AssemblyInfo.cs
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\04.MatchingBrackets\obj\Debug\netcoreapp2.1\04.MatchingBrackets.dll
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\04.MatchingBrackets\obj\Debug\netcoreapp2.1\04.MatchingBrackets.pdb

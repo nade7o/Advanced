@@ -1,0 +1,10 @@
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\05.PrintEvenNumbers\bin\Debug\netcoreapp2.1\05.PrintEvenNumbers.deps.json
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\05.PrintEvenNumbers\bin\Debug\netcoreapp2.1\05.PrintEvenNumbers.runtimeconfig.json
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\05.PrintEvenNumbers\bin\Debug\netcoreapp2.1\05.PrintEvenNumbers.runtimeconfig.dev.json
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\05.PrintEvenNumbers\bin\Debug\netcoreapp2.1\05.PrintEvenNumbers.dll
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\05.PrintEvenNumbers\bin\Debug\netcoreapp2.1\05.PrintEvenNumbers.pdb
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\netcoreapp2.1\05.PrintEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\netcoreapp2.1\05.PrintEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\netcoreapp2.1\05.PrintEvenNumbers.AssemblyInfo.cs
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\netcoreapp2.1\05.PrintEvenNumbers.dll
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\05.PrintEvenNumbers\obj\Debug\netcoreapp2.1\05.PrintEvenNumbers.pdb

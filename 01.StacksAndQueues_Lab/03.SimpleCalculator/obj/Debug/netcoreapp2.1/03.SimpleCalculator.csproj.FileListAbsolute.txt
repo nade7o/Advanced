@@ -1,0 +1,11 @@
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\03.SimpleCalculator\bin\Debug\netcoreapp2.1\03.SimpleCalculator.deps.json
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\03.SimpleCalculator\bin\Debug\netcoreapp2.1\03.SimpleCalculator.runtimeconfig.json
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\03.SimpleCalculator\bin\Debug\netcoreapp2.1\03.SimpleCalculator.runtimeconfig.dev.json
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\03.SimpleCalculator\bin\Debug\netcoreapp2.1\03.SimpleCalculator.dll
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\03.SimpleCalculator\bin\Debug\netcoreapp2.1\03.SimpleCalculator.pdb
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\netcoreapp2.1\03.SimpleCalculator.csprojAssemblyReference.cache
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\netcoreapp2.1\03.SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\netcoreapp2.1\03.SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\netcoreapp2.1\03.SimpleCalculator.AssemblyInfo.cs
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\netcoreapp2.1\03.SimpleCalculator.dll
+C:\Users\Nadya.Karaivanova\source\repos\01.StacksAndQueues\03.SimpleCalculator\obj\Debug\netcoreapp2.1\03.SimpleCalculator.pdb
