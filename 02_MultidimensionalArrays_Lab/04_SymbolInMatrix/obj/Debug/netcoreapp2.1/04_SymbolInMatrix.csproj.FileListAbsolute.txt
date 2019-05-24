@@ -1,0 +1,10 @@
+C:\Users\USER\source\repos\02_MultidimensionalArrays\04_SymbolInMatrix\bin\Debug\netcoreapp2.1\04_SymbolInMatrix.deps.json
+C:\Users\USER\source\repos\02_MultidimensionalArrays\04_SymbolInMatrix\bin\Debug\netcoreapp2.1\04_SymbolInMatrix.runtimeconfig.json
+C:\Users\USER\source\repos\02_MultidimensionalArrays\04_SymbolInMatrix\bin\Debug\netcoreapp2.1\04_SymbolInMatrix.runtimeconfig.dev.json
+C:\Users\USER\source\repos\02_MultidimensionalArrays\04_SymbolInMatrix\bin\Debug\netcoreapp2.1\04_SymbolInMatrix.dll
+C:\Users\USER\source\repos\02_MultidimensionalArrays\04_SymbolInMatrix\bin\Debug\netcoreapp2.1\04_SymbolInMatrix.pdb
+C:\Users\USER\source\repos\02_MultidimensionalArrays\04_SymbolInMatrix\obj\Debug\netcoreapp2.1\04_SymbolInMatrix.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\02_MultidimensionalArrays\04_SymbolInMatrix\obj\Debug\netcoreapp2.1\04_SymbolInMatrix.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\02_MultidimensionalArrays\04_SymbolInMatrix\obj\Debug\netcoreapp2.1\04_SymbolInMatrix.AssemblyInfo.cs
+C:\Users\USER\source\repos\02_MultidimensionalArrays\04_SymbolInMatrix\obj\Debug\netcoreapp2.1\04_SymbolInMatrix.dll
+C:\Users\USER\source\repos\02_MultidimensionalArrays\04_SymbolInMatrix\obj\Debug\netcoreapp2.1\04_SymbolInMatrix.pdb
