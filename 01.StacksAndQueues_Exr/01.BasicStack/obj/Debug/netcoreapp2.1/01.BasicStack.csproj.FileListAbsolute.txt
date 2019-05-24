@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\01.StacksAndQueues\01.BasicStack\bin\Debug\netcoreapp2.1\01.BasicStack.deps.json
+C:\Users\USER\source\repos\01.StacksAndQueues\01.BasicStack\bin\Debug\netcoreapp2.1\01.BasicStack.runtimeconfig.json
+C:\Users\USER\source\repos\01.StacksAndQueues\01.BasicStack\bin\Debug\netcoreapp2.1\01.BasicStack.runtimeconfig.dev.json
+C:\Users\USER\source\repos\01.StacksAndQueues\01.BasicStack\bin\Debug\netcoreapp2.1\01.BasicStack.dll
+C:\Users\USER\source\repos\01.StacksAndQueues\01.BasicStack\bin\Debug\netcoreapp2.1\01.BasicStack.pdb
+C:\Users\USER\source\repos\01.StacksAndQueues\01.BasicStack\obj\Debug\netcoreapp2.1\01.BasicStack.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\01.StacksAndQueues\01.BasicStack\obj\Debug\netcoreapp2.1\01.BasicStack.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\01.StacksAndQueues\01.BasicStack\obj\Debug\netcoreapp2.1\01.BasicStack.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\01.StacksAndQueues\01.BasicStack\obj\Debug\netcoreapp2.1\01.BasicStack.AssemblyInfo.cs
+C:\Users\USER\source\repos\01.StacksAndQueues\01.BasicStack\obj\Debug\netcoreapp2.1\01.BasicStack.dll
+C:\Users\USER\source\repos\01.StacksAndQueues\01.BasicStack\obj\Debug\netcoreapp2.1\01.BasicStack.pdb

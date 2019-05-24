@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\01.StacksAndQueues\06.AutoRepair\bin\Debug\netcoreapp2.1\06.AutoRepair.deps.json
+C:\Users\USER\source\repos\01.StacksAndQueues\06.AutoRepair\bin\Debug\netcoreapp2.1\06.AutoRepair.runtimeconfig.json
+C:\Users\USER\source\repos\01.StacksAndQueues\06.AutoRepair\bin\Debug\netcoreapp2.1\06.AutoRepair.runtimeconfig.dev.json
+C:\Users\USER\source\repos\01.StacksAndQueues\06.AutoRepair\bin\Debug\netcoreapp2.1\06.AutoRepair.dll
+C:\Users\USER\source\repos\01.StacksAndQueues\06.AutoRepair\bin\Debug\netcoreapp2.1\06.AutoRepair.pdb
+C:\Users\USER\source\repos\01.StacksAndQueues\06.AutoRepair\obj\Debug\netcoreapp2.1\06.AutoRepair.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\01.StacksAndQueues\06.AutoRepair\obj\Debug\netcoreapp2.1\06.AutoRepair.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\01.StacksAndQueues\06.AutoRepair\obj\Debug\netcoreapp2.1\06.AutoRepair.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\01.StacksAndQueues\06.AutoRepair\obj\Debug\netcoreapp2.1\06.AutoRepair.AssemblyInfo.cs
+C:\Users\USER\source\repos\01.StacksAndQueues\06.AutoRepair\obj\Debug\netcoreapp2.1\06.AutoRepair.dll
+C:\Users\USER\source\repos\01.StacksAndQueues\06.AutoRepair\obj\Debug\netcoreapp2.1\06.AutoRepair.pdb
