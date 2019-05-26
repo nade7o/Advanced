@@ -24,7 +24,7 @@ namespace _7.KnightGame
 
             while (true)
             {
-                int maxCount = 0; 
+                int maxCount = 0;
                 int knightRow = 0;
                 int knightCol = 0;
 
@@ -36,7 +36,7 @@ namespace _7.KnightGame
 
                         if (board[row, col] == 'K')
                         {
-                            //Г -> row - 2, col + 1
+
                             if (isInside(board, row - 2, col + 1) && board[row - 2, col + 1] == 'K')
                             {
                                 currentCount++;
@@ -47,12 +47,12 @@ namespace _7.KnightGame
                                 currentCount++;
                             }
 
-                            if (isInside(board, row + 2, col - 1) && board[row + 2, col - 1] == 'K')
+                            if (isInside(board, row + 2, col + 1) && board[row + 2, col + 1] == 'K')
                             {
                                 currentCount++;
                             }
 
-                            if (isInside(board, row + 2, col + 1) && board[row + 2, col + 1] == 'K')
+                            if (isInside(board, row + 2, col - 1) && board[row + 2, col - 1] == 'K')
                             {
                                 currentCount++;
                             }
@@ -77,6 +77,7 @@ namespace _7.KnightGame
                                 currentCount++;
                             }
                         }
+
                         if (currentCount > maxCount)
                         {
                             maxCount = currentCount;
@@ -90,7 +91,7 @@ namespace _7.KnightGame
                 {
                     break;
                 }
-                board[knightRow, knightRow] = '0';
+                board[knightRow, knightCol] = '0';
                 counter++;
             }
             Console.WriteLine(counter);
