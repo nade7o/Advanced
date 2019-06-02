@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\06_Wardobe\bin\Debug\netcoreapp2.1\06_Wardobe.deps.json
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\06_Wardobe\bin\Debug\netcoreapp2.1\06_Wardobe.runtimeconfig.json
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\06_Wardobe\bin\Debug\netcoreapp2.1\06_Wardobe.runtimeconfig.dev.json
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\06_Wardobe\bin\Debug\netcoreapp2.1\06_Wardobe.dll
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\06_Wardobe\bin\Debug\netcoreapp2.1\06_Wardobe.pdb
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\06_Wardobe\obj\Debug\netcoreapp2.1\06_Wardobe.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\06_Wardobe\obj\Debug\netcoreapp2.1\06_Wardobe.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\06_Wardobe\obj\Debug\netcoreapp2.1\06_Wardobe.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\06_Wardobe\obj\Debug\netcoreapp2.1\06_Wardobe.AssemblyInfo.cs
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\06_Wardobe\obj\Debug\netcoreapp2.1\06_Wardobe.dll
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\06_Wardobe\obj\Debug\netcoreapp2.1\06_Wardobe.pdb

@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp2.1\01.UniqueUsernames.deps.json
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp2.1\01.UniqueUsernames.runtimeconfig.json
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp2.1\01.UniqueUsernames.runtimeconfig.dev.json
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp2.1\01.UniqueUsernames.dll
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\01.UniqueUsernames\bin\Debug\netcoreapp2.1\01.UniqueUsernames.pdb
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp2.1\01.UniqueUsernames.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp2.1\01.UniqueUsernames.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp2.1\01.UniqueUsernames.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp2.1\01.UniqueUsernames.AssemblyInfo.cs
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp2.1\01.UniqueUsernames.dll
+C:\Users\USER\source\repos\03_SetsAndDictionariesAdvanced\01.UniqueUsernames\obj\Debug\netcoreapp2.1\01.UniqueUsernames.pdb
